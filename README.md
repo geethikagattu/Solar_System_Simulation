@@ -61,7 +61,7 @@ This project is a **3D simulation of our Solar System** built using **Three.js**
    - Push this project to a GitHub repo
    - Go to `Settings > Pages` and select the root as the source
    - Your simulation will be live at:  
-     `https://your-username.github.io/solar-system/`
+   (https://geethikagattu.github.io/Solar_System_Simulation/)
 
 ---
 

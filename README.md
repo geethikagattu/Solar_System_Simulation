@@ -34,7 +34,6 @@ This project is a **3D simulation of our Solar System** built using **Three.js**
 
 ## 📂 Folder Structure
 
-📁 your-project/
 ├── 📁 image/ # All planet and background textures
 │ ├── sun.jpg
 │ ├── earth.jpg
@@ -61,19 +60,20 @@ This project is a **3D simulation of our Solar System** built using **Three.js**
    - Push this project to a GitHub repo
    - Go to `Settings > Pages` and select the root as the source
    - Your simulation will be live at:  
-   (https://geethikagattu.github.io/Solar_System_Simulation/)
+  deployed link = (https://geethikagattu.github.io/Solar_System_Simulation/)
 
 ---
 
 ## 🎥 Demo Video
 
-> *(Attach a link here or write: “See attached screen recording showing all features in action.”)*
+
+https://github.com/user-attachments/assets/ae1077c6-af5d-4a04-a71a-e0d3646d4a8a
 
 ---
 
 ## ✨ Bonus Features Implemented
 
-- ✅ Pause/Resume Animation
+- ✅ Pause/Resume Animation!
 - ✅ Background stars
 - ✅ Tooltips on hover
 - ✅ Dark/Light Mode Toggle
